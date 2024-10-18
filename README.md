@@ -1,6 +1,6 @@
-# YAGPDB - Yet Another General Purpose Discord Bot
+# NexuSphere Community Helper (NSCH)
 
-YAGPDB is a multifunctional, modular Discord bot. It is modular in the sense that for most things plugins exist -- However, some plugins may depend on other plugins.
+NSCH is a multifunctional, modular Discord bot built off of YAGPDB. It is modular in the sense that for most things plugins exist -- However, some plugins may depend on other plugins.
 
 ## Plugins
 
